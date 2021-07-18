@@ -1,0 +1,13 @@
+p{
+    color: green;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+h1{
+    color: blue;
+    text-transform: uppercase;
+}
+h2{
+    text-transform: uppercase;
+}
