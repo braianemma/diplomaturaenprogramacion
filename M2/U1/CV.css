@@ -1,0 +1,67 @@
+
+
+h1{
+    color: red;
+    font-weight: bolder;
+    text-transform: uppercase;
+    font-size: 28px;
+}
+h2{
+    color: blue;
+    text-transform: uppercase;
+    font-size: 27px;
+    font-weight: bolder;
+}
+h3{
+    font-size: 19px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+ul{
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 11px;
+   
+    
+}
+h4{
+    text-transform: uppercase;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+h3,h4{
+    font-family: 'Otomanopee One', sans-serif;
+    color:blue;
+}
+
+h1,h2{
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+}
+
+li{
+    font-family: 'Otomanopee One', sans-serif;
+    color: black;
+}
+
+.caja{
+    background-color: rgb(241, 179, 228);
+    padding: 1px 0px 1px;
+    border-radius: 20px;
+    box-shadow: 6px 4px blue;
+}
+  
+.caja2{
+    background-color: grey;
+    padding: 1px 0px 1px;
+    border-radius: 20px;
+    box-shadow: 6px 3px yellow
+}
+
+.img{
+    background-color: red;
+    padding: 5px 500px 0px;
+    border-radius: 20px;
+    box-shadow: 0 0 15px blue;
+}
