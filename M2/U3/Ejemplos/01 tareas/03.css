@@ -1,11 +1,11 @@
 .contenedor {
 	border: 2px solid black;
-	width: 450px;
-	height: 450px;
     margin: 0 auto;
     display: flex;
-    align-items: center;
-    flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+   
+   
 }
 .caja {
 	width: 150px;
@@ -18,13 +18,18 @@
 }
 .item1 {
 	background: red;
-	color: white;
+    color: white;
+   
 }
+
 .item2 {
 	background: blue;
 	color: white;
+	
 }
 .item3 {
 	background:green;
-	color: white;
+    color: white;
+    
 }
+
